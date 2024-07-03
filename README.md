@@ -85,3 +85,11 @@ Se crea un ticket detallando el monto, el mail del comprador, un código de tick
 Se utiliza Nodemailer para enviar un mail al usuario con el ticket de su orden. En este caso el mail de destino será el mail de la persona a cargo de la prueba de este proyecto.
 
 Seguido de eso redirige a un Handlebars con un mensaje de agradecimiento con la oportunidad de volver a la pagina de Inicio.
+
+### SWAGGER
+
+```bash
+   http://localhost:8080/api-docs
+```
+
+Documentacion de la api
